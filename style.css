@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: green;
+}
+
+main {
+    height: 100%;
+}
+
+h1 {
+    margin: 10px 0px 0px 0px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h1, h3 {
+    text-align: center;
+    font-family: "Fjalla One", sans-serif;
+}
+
+#roulette-game {
+    display: flex;
+    justify-content: center;
+}
