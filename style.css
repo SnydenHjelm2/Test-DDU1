@@ -54,6 +54,21 @@ button {
     border-style: solid;
 }
 
+#red-b:hover {
+    background-color: darkred;
+    color: white;
+}
+
+#black-b:hover {
+    background-color: #2e2d2d;
+    color: white;
+}
+
+#green-b:hover {
+    background-color: greenyellow;
+    color: black;
+}
+
 #info-para {
     text-align: center;
     font-size: 20px;
